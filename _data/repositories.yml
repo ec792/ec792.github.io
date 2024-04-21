@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ec792
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ec792/StockScreener
+  - ec792/SustainableTourismIndex
+  - ec792/RPackage
