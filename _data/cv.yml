@@ -42,13 +42,13 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/StockScreener">StockScreener</a>
+    - title: <a href="https://github.com/ec792/StockScreener">StockScreener</a>
       year: 2023
       description: A VBA project to track the price changes of 500 stocks.
-    - title: <a href="https://github.com/SustainableTourismIndex">Sustainable Tourism Index</a>
+    - title: <a href="https://github.com/ec792/SustainableTourismIndex">Sustainable Tourism Index</a>
       year: 2023
       description: Researched and developed the framework for a sustainable tourism index of U.S cities.
-    - title: <a href="https://github.com/RPackage">R Package</a>
+    - title: <a href="https://github.com/ec792/RPackage">R Package</a>
       year: 2023
       description: Created an R Package to analyze and map hurricane data.
 
