@@ -3,7 +3,6 @@ layout: page
 title: R Package for Tropical Cyclones
 description: A package to analyze tropical storms
 img: 
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
